@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "cSpell.words": [
+        "Bubblesort",
+        "funp",
+        "Insertsort",
+        "Insrtsort",
+        "Selectsort"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
